@@ -33,7 +33,7 @@ In percentage terms, vine reviews were about 42% of the total count, whereas non
 '''
 '''
 
-<img width="1062" alt="non_vine_review_df" src="https://user-images.githubusercontent.com/111670866/209022170-a05db390-ce72-4a09-a977-e82f34ac6ecc.png">
+<img width="1385" alt="non_vine_5star" src="https://user-images.githubusercontent.com/111670866/209022978-a9cd0770-465d-4ff4-880d-4233479d4519.png">
 
 '''
 
