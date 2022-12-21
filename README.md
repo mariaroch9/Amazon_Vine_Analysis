@@ -17,14 +17,10 @@ To determine the bias of paid and unpaid vine reviews on Amazon
 
 
 There were 1080 vine reviews and 49673 non-vine reviews.  
-## How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-Of the total 1080 vine reviews, 454 were 5-star reviews whereas of the total 49673 non-vine reviews, 23043 were 5-star reviews. 
-'''
 
 '''
-## What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-In percentage terms, vine reviews were about 42% of the total count, whereas non-vine reviews were 46% of the total reviews. 
+
 '''
 
 <img width="1385" alt="vine_five_star" src="https://user-images.githubusercontent.com/111670866/209022139-5d0d51a9-7601-4170-a5e9-3a74a06201b9.png">
@@ -36,9 +32,13 @@ In percentage terms, vine reviews were about 42% of the total count, whereas non
 
 '''
 
- 
+## How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+Of the total 1080 vine reviews, 454 were 5-star reviews whereas of the total 49673 non-vine reviews, 23043 were 5-star reviews. 
+## What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
- 
+In percentage terms, vine reviews were about 42% of the total count, whereas non-vine reviews were 46% of the total reviews. 
+
+
 # Summary
 Since there is no significant difference in % terms of the vine and non-vine reviews, we cannot positively conclude elements of bias in the Vine program. While the non-vine reviews are 46%, the vine reviews are not too far behind at 42% of the total count. 
 
