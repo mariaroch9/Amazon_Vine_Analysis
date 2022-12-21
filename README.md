@@ -26,7 +26,6 @@ Of the total 1080 vine reviews, 454 were 5-star reviews whereas of the total 496
 
 In percentage terms, vine reviews were about 42% of the total count, whereas non-vine reviews were 46% of the total reviews. 
 
-
 '''
 
 <img width="1385" alt="vine_five_star" src="https://user-images.githubusercontent.com/111670866/209022139-5d0d51a9-7601-4170-a5e9-3a74a06201b9.png">
@@ -37,8 +36,6 @@ In percentage terms, vine reviews were about 42% of the total count, whereas non
 <img width="1062" alt="non_vine_review_df" src="https://user-images.githubusercontent.com/111670866/209022170-a05db390-ce72-4a09-a977-e82f34ac6ecc.png">
 
 '''
-
-
 
 # Summary
 Since there is no significant difference in % terms of the vine and non-vine reviews, we cannot positively conclude elements of bias in the Vine program. While the non-vine reviews are 46%, the vine reviews are not too far behind at 42% of the total count. 
